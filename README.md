@@ -14,12 +14,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| project - 1: DNSlog_analysis_using Splunk     | <a herf="https://github.com/aleemdudekula/splunk-projects">|
-| Project - 2: FTPlog_analysis_using splunk     | <a herf="https://github.com/aleemdudekula/splunk-projects">|
-| Project - 3: SSHlog_analysis_using splunk     | <a herf="https://github.com/aleemdudekula/splunk-projects">|
-
+| Skill                                      | Associated Project |
+|-------------------------------------------|--------------------|
+| Project 1: DNS Log Analysis using Splunk  | [DNS Project](https://github.com/aleemdudekula/splunk-projects/tree/main/DNS) |
+| Project 2: FTP Log Analysis using Splunk  | [FTP Project](https://github.com/aleemdudekula/splunk-projects/tree/main/FTP) |
+| Project 3: SSH Log Analysis using Splunk  | [SSH Project](https://github.com/aleemdudekula/splunk-projects/tree/main/SSH) |
 
 
 ## Tools
