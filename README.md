@@ -52,5 +52,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- DNSLOG_analysis
+- FTP_analysis
+- SSH_analysis
