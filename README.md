@@ -1,57 +1,50 @@
-# Hello, I'm ALEEM DUDEKULA
+Hello, I'm ALEEM DUDEKULA
+
 <a href="https://www.linkedin.com/in/aleem-dudekula-99b95525b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## Brief Introduction
+🚀 About Me
+🔧 System Support Engineer with 3+ years of experience in troubleshooting, system maintenance, and infrastructure support.
+🐧 Strong hands-on experience with Linux system administration and networking.
+⚙️ Transitioning into DevOps with a focus on automation, CI/CD, and cloud technologies.
+📈 Currently building real-world DevOps projects to strengthen practical skills.
 
-🔧 Experienced Network Administrator with 3+ years of expertise in designing, securing, and maintaining robust network infrastructures.
-🌐 Specializing in LAN/WAN management, firewall configuration, routing, switching & network performance monitoring.
-🔐 Passionate about security, automation and building scalable network systems.
+🎯 Objective
+To transition into a DevOps Engineer role, leveraging my background in system support and networking to build scalable, automated, and reliable infrastructure.
 
-## Objective
+🛠️ Skills
+**Category	                Skills**
+Operating Systems	        Linux (Completed), Windows Server
+Cloud	                    AWS (Learning)
+Containers	                Docker
+Infrastructure as Code	    Terraform
+Configuration Management	Ansible
+CI/CD	                    Jenkins, GitHub Actions
+Version Control	            Git, GitHub
+Networking	                TCP/IP, DNS, Routing, Switching
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+⚙️ Tools & Technologies
+🐧 Linux & System
+<div> <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/-Bash_Scripting-121011?&style=for-the-badge&logo=gnu-bash&logoColor=white" /> </div>
+☁️ Cloud & DevOps
+<div> <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/-Terraform-623CE4?&style=for-the-badge&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/-Ansible-EE0000?&style=for-the-badge&logo=ansible&logoColor=white" /> </div>
+🔄 CI/CD & Version Control
+<div> <img src="https://img.shields.io/badge/-Jenkins-D24939?&style=for-the-badge&logo=jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?&style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /> </div>
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                      | Associated Project |
-|-------------------------------------------|--------------------|
-| Project 1: DNS Log Analysis using Splunk  | [GitHub Repo](https://github.com/aleemdudekula/splunk-projects) |
-| Project 2: FTP Log Analysis using Splunk  | [GitHub Repo](https://github.com/aleemdudekula/splunk-projects) |
-| Project 3: SSH Log Analysis using Splunk  | [GitHub Repo](https://github.com/aleemdudekula/splunk-projects) |
+📂 Projects (Work in Progress 🚧)
+🔧 Linux Server Setup & Hardening
+🐳 Dockerized Application Deployment (Coming Soon)
+☁️ AWS Infrastructure with Terraform (In Progress)
+⚙️ CI/CD Pipeline using Jenkins (Planned)
+📦 Configuration Management using Ansible (Planned)
 
 
+📜 Certifications
+<div> <img src="https://img.shields.io/badge/-CCNA-0A66C2?&style=for-the-badge&logo=Cisco&logoColor=white" /> </div>
 
-## Tools
-
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-004A7F?&style=for-the-badge&logo=nmap&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CrowdStrike-E4002B?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-IBM_QRadar-052FAD?&style=for-the-badge&logo=IBM&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=wazuh&logoColor=white" />
-</div>
-
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-CCNA-0A66C2?&style=for-the-badge&logo=Cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-PreSecurity-B00000?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
-<img src="https://img.shields.io/badge/-SOC%20L1-B00000?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
-</div>
-
-## Projects
-- DNSLOG_analysis
-- FTP_analysis
-- SSH_analysis
+📈 Learning Roadmap
+✅ Linux (Completed)
+🔄 AWS Cloud (In Progress)
+⏳ Docker & Kubernetes
+⏳ Terraform (Infrastructure as Code)
+⏳ CI/CD Pipelines (Jenkins, GitHub Actions)
+⏳ Ansible Automation
