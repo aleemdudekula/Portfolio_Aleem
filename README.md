@@ -64,11 +64,17 @@ To secure a **DevOps Engineer (Fresher/Junior)** role where I can apply my skill
 ## 📈 Learning Roadmap
 
 ✅ Linux Fundamentals
+
 ✅ Docker (Basics to Intermediate)
+
 ✅ Git & GitHub (Advanced)
+
 🔄 CI/CD (GitHub Actions, Jenkins)
+
 ✅ Cloud (AWS - EC2, S3, IAM)
+
 🔄 Kubernetes
+
 🔄 Monitoring (Prometheus, Grafana)
 
 ---
