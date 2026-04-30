@@ -59,7 +59,7 @@ To secure a **DevOps Engineer (Fresher/Junior)** role where I can apply my skill
 * Exposed application on port 8080
 * Debugged real-world issues (403 error, port conflicts, Dockerfile errors)
 
-<a href link 
+🔗 [View Project on GitHub](https://github.com/aleemdudekula/Devops-projects/tree/7a102441961bbd7aac6fc900cafa0a97b3cb7b0e/deploy-frontend-nginx)
 
 ## 📈 Learning Roadmap
 
