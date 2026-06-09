@@ -1,96 +1,176 @@
-## Hello, I'm ALEEM DUDEKULA
-
-<a href="https://www.linkedin.com/in/aleem-dudekula-99b95525b">
-<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+# Hello, I'm ALEEM DUDEKULA
 
 ---
 
 ## 🚀 About Me
 
-💻 IT Support Engineer with 3.9 years of experience transitioning into **DevOps Engineering**
+🌐 Network Engineer with 3.9 years of experience in IT Support, Network Administration, and Infrastructure Troubleshooting.
 
-⚙️ Hands-on experience with Linux, Docker, Git, and basic CI/CD workflows
+🔧 Hands-on experience with Routing, Switching, Network Security, LAN/WAN Technologies, and Enterprise Network Support.
 
-🔧 Strong foundation in troubleshooting, system administration, and infrastructure support
+📡 Skilled in configuring and troubleshooting Cisco networking devices, VLANs, Routing Protocols, and Network Services.
 
-📦 Currently building real-world DevOps projects using containers and automation
+🛠️ Experienced in hardware troubleshooting, structured cabling, system administration, and end-user support.
 
-🎯 Passionate about automation, cloud technologies, and scalable system design
+🎯 Passionate about Network Engineering, Cybersecurity, Data Center Technologies, and Enterprise Infrastructure.
 
 ---
 
 ## 🎯 Objective
 
-To secure a **DevOps Engineer (Fresher/Junior)** role where I can apply my skills in Linux, Docker, CI/CD, and cloud fundamentals to build and manage reliable systems.
+To secure a Network Engineer position where I can leverage my networking, troubleshooting, and infrastructure management skills to design, implement, secure, and maintain reliable enterprise networks.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-* **DevOps Tools:** Docker, Git, GitHub Actions (Basics)
-* **Operating Systems:** Linux (Ubuntu), Windows
-* **Web Technologies:** HTML, CSS, JavaScript
-* **Containerization:** Docker (Image, Container, Dockerfile, Nginx)
-* **Version Control:** Git, GitHub
-* **Networking Basics:** TCP/IP, DNS, HTTP/HTTPS
-* **IT Support Skills:** Troubleshooting, System Monitoring, User Support
+### 🌐 Networking
+
+* Routing & Switching
+* TCP/IP, OSI Model
+* IPv4 Addressing & Subnetting
+* VLANs & Inter-VLAN Routing
+* STP, RSTP, EtherChannel
+* DHCP, DNS, NAT, PAT
+* ACLs & Network Security
+* OSPF, EIGRP, BGP (Learning)
+* VPN Technologies
+
+### 🔐 Security
+
+* Firewall Fundamentals
+* Network Access Control (NAC)
+* IDS/IPS Concepts
+* VPN Configuration
+* Access Control Lists (ACL)
+
+### 💻 Operating Systems
+
+* Windows 10/11
+* Windows Server Basics
+* Linux (Ubuntu)
+
+### 🛠️ Tools
+
+* Wireshark
+* Cisco Packet Tracer
+* GNS3
+* PuTTY
+* Git & GitHub
+
+### 🔧 IT Infrastructure
+
+* Desktop & Laptop Troubleshooting
+* Hardware Diagnostics
+* Motherboard-Level Troubleshooting
+* Structured Cabling (CAT5e/CAT6)
+* Printer & Peripheral Support
 
 ---
 
-## ⚙️ Tools & Technologies
+## ⚙️ Networking Technologies
 
-### 🚀 DevOps Tools
+### 🚀 Core Networking
 
-<div>
-<img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
-</div>
+* LAN, WAN, WLAN
+* Switching Technologies
+* Routing Technologies
+* Network Monitoring
+* Network Troubleshooting
+
+### 🖥️ Cisco Technologies
+
+* Cisco IOS
+* Router Configuration
+* Switch Configuration
+* SSH Configuration
+* VLAN Deployment
+* Routing Protocol Implementation
 
 ---
 
-## 📂 DevOps Projects
+## 📂 Networking Projects
 
-### 🌐 Dockerized Portfolio Website
+### 🌐 Enterprise Network Lab using GNS3
 
-* Containerized a static HTML, CSS, JS website using Docker
-* Used Nginx as a web server inside the container
-* Exposed application on port 8080
-* Debugged real-world issues (403 error, port conflicts, Dockerfile errors)
+* Configured multi-router enterprise topology
+* Implemented OSPF routing between routers
+* Configured VLANs and Inter-VLAN Routing
+* Captured and analyzed packets using Wireshark
+* Verified TCP 3-Way Handshake, FIN, RST, and PUSH packets
+* Performed SSH remote management configuration
 
-🔗 [View Project on GitHub](https://github.com/aleemdudekula/Devops-projects/tree/7a102441961bbd7aac6fc900cafa0a97b3cb7b0e/deploy-frontend-nginx)
+### 🔍 Network Packet Analysis using Wireshark
+
+* Captured and analyzed network traffic
+* Examined ARP, ICMP, TCP, UDP, DNS, and HTTP packets
+* Investigated packet flow and troubleshooting scenarios
+
+### 🏢 Campus Network Design
+
+* Designed scalable LAN architecture
+* Implemented VLAN segmentation
+* Configured DHCP services
+* Created network documentation and topology diagrams
+
+---
+
+## 📜 Certifications
+
+🔄 Cisco Certified Network Associate (CCNA) – In Progress
+
+🔄 Cisco Certified Network Professional (CCNP) – Planned
+
+🔄 Palo Alto Network Security – Planned
+
+🔄 Aruba Networking – Planned
+
+🔄 Juniper Networking – Planned
+
+---
 
 ## 📈 Learning Roadmap
 
-✅ Linux Fundamentals
+✅ Networking Fundamentals
 
-✅ Docker (Basics to Intermediate)
+✅ IPv4 Addressing & Subnetting
 
-✅ Git & GitHub (Advanced)
+✅ Routing & Switching
 
-🔄 CI/CD (GitHub Actions, Jenkins)
+✅ VLANs & Inter-VLAN Routing
 
-✅ Cloud (AWS - EC2, S3, IAM)
+✅ OSPF
 
-🔄 Kubernetes
+✅ GNS3 Labs
 
-🔄 Monitoring (Prometheus, Grafana)
+✅ Wireshark Packet Analysis
 
----
+🔄 CCNA Certification
 
-## 🧠 Transition Story
+🔄 CCNP Enterprise
 
-From resolving system issues as an IT Support Engineer
-➡️ To building and automating infrastructure as a DevOps Engineer
+🔄 Palo Alto Firewalls
+
+🔄 Aruba Switching & Wireless
+
+🔄 Juniper Networks
+
+🔄 Network Automation (Python)
 
 ---
 
 ## 🔥 Current Focus
 
-* Building real-world DevOps projects
-* Strengthening Docker & CI/CD skills
-* Preparing for DevOps interviews
+* Completing CCNA Certification
+* Building Enterprise Networking Labs in GNS3
+* Practicing Advanced Routing & Switching
+* Learning Firewall Technologies
+* Exploring Network Automation
 
 ---
 
+## 🤝 Connect With Me
+
+LinkedIn: [www.linkedin.com/in/aleem-dudekula-99b95525b](http://www.linkedin.com/in/aleem-dudekula-99b95525b)
+
+GitHub: www.github.com/aleemdudekula
