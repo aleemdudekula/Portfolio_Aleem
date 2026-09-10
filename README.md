@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-🌐 Network Engineer with 3.9 years of experience in IT Support, Network Administration, and Infrastructure Troubleshooting.
+🌐 Network Engineer with 4.1 years of experience in IT Support, Network Administration, and Infrastructure Troubleshooting.
 
 🔧 Hands-on experience with Routing, Switching, Network Security, LAN/WAN Technologies, and Enterprise Network Support.
 
@@ -113,64 +113,34 @@ To secure a Network Engineer position where I can leverage my networking, troubl
 * Configured DHCP services
 * Created network documentation and topology diagrams
 
----
+### Enterprise Secure Area  Network Design, Troubleshooting 
+ 
+Over the past few days, I designed, implemented, and troubleshot a multi-site enterprise network from scratch in EVE-NG, connecting two campus networks, a DMZ, and a Palo Alto firewall to the Internet edge.
+ 
+The project focused not only on configuration, but also on real-world troubleshooting, redundancy, routing, security, and network verification.
+ 
+🔧 What I Built
 
-## 📜 Certifications
+ • Two-site enterprise campus network — Mains University Branch + Branch Campus
+ 
+ • 9 VLANs across multiple departments including IT, Engineering, Business, Art & Design, and Health & Business
+ 
+ • HSRP Active/Standby for first-hop gateway redundancy
+ 
+ • LACP EtherChannel for link redundancy and increased bandwidth
 
-🔄 Cisco Certified Network Associate (CCNA) – In Progress
+ • OSPF for dynamic routing across the core, DMZ edge, and branch networks
+ 
+ • Palo Alto PA-VM firewall as the Internet security edge
+ 
+ • Configured Security Zones, Virtual Router, Static Routes, NAT, and Security Policies
+ 
+ • Implemented a dedicated DMZ network and server
 
-🔄 Cisco Certified Network Professional (CCNP) – Planned
+ • Configured VLAN trunking, access ports, DHCP, and static IP addressing
+ 
+ • Worked with Python/Ansible automation for network configuration and operational tasks
 
-🔄 Palo Alto Network Security – Planned
-
-🔄 Aruba Networking – Planned
-
-🔄 Juniper Networking – Planned
-
----
-
-## 📈 Learning Roadmap
-
-✅ Networking Fundamentals
-
-✅ IPv4 Addressing & Subnetting
-
-✅ Routing & Switching
-
-✅ VLANs & Inter-VLAN Routing
-
-✅ OSPF
-
-✅ GNS3 Labs
-
-✅ Wireshark Packet Analysis
-
-🔄 CCNA Certification
-
-🔄 CCNP Enterprise
-
-🔄 Palo Alto Firewalls
-
-🔄 Aruba Switching & Wireless
-
-🔄 Juniper Networks
-
-🔄 Network Automation (Python)
-
----
-
-## 🔥 Current Focus
-
-* Completing CCNA Certification
-* Building Enterprise Networking Labs in GNS3
-* Practicing Advanced Routing & Switching
-* Learning Firewall Technologies
-* Exploring Network Automation
-
----
-
-## 🤝 Connect With Me
-
-LinkedIn: [www.linkedin.com/in/aleem-dudekula-99b95525b](http://www.linkedin.com/in/aleem-dudekula-99b95525b)
+LinkedIn: http://www.linkedin.com/in/aleem-dudekula-99b95525b
 
 GitHub: www.github.com/aleemdudekula
