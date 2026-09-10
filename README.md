@@ -39,10 +39,18 @@ To secure a Network Engineer position where I can leverage my networking, troubl
 ### 🔐 Security
 
 * Firewall Fundamentals
-* Network Access Control (NAC)
-* IDS/IPS Concepts
-* VPN Configuration
-* Access Control Lists (ACL)
+* Next-Generation Firewall Concepts
+* Palo Alto Networks
+* Security Policies
+* NAT Policies
+* Security Zones
+* VPN Technologies
+* IPsec VPN
+* SSL VPN Concepts
+* IDS / IPS Concepts
+* Network Access Control
+* Access Control Lists
+* Network Segmentation
 
 ### 💻 Operating Systems
 
